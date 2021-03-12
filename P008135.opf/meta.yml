@@ -5,11 +5,12 @@ source_metadata:
   title: ས་སྲོས་ཀྱི་འཆར་སྒོ།
   author: ''
   volumes:
-    13cc5504fcc34770a8ce211a581bb7e3:
+    0997d79c67a34429a2569695a6aee8e2:
       image_group_id: I2PD18257
-      title: ''
+      title: Volume 1 of sa sros kyi 'char sgo/
       volume_number: 1
       total_pages: 306
+      base_file: v001.txt
 ebook_metadata:
   title: ས་སྲོས་ཀྱི་འཆར་སྒོ།
   author: ''
